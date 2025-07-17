@@ -37,4 +37,6 @@ galaxy_info:
     - ssh
     - system
     - tls
+    - leap
+    - sles
 dependencies: []
